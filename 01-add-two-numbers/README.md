@@ -1,4 +1,4 @@
-# Add Two Example
+# Add Two Numbers
 
 This example covers Typescript features:
 
