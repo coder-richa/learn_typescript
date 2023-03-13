@@ -5,7 +5,7 @@ Assigning an explicit type to a variable
 -   Syntax
 
     ```
-        let variableName: dataType = 10;
+        let variableName: dataType = value;
     ```
 
     The above code block specifies that the **variableName** variable would hold a value of type **dataType**.
