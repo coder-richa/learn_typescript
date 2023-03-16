@@ -5,7 +5,7 @@ Functions are reusable components of TS. While defining functions, it is possibl
 -   Syntax
 
     ```
-        cont functionName = (
+        const functionName = (
             requiredParameter: dataType,
             optionalParameter1: dataType = defaultValue1,
             optionalParameter2: dataType = defaultValue2
